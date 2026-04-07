@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0,Imedi TV HD
 #EXTGRP:ქართული
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
@@ -11,3 +12,9 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:0,Euronews Georgia
 #EXTGRP:ქართული
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+#EXTINF:0,Rustavi 2
+#EXTGRP:ქართული
+https://streaming-hls3.televizia.org/hls/rustavi2.m3u8
+#EXTINF:0,POSTV
+#EXTGRP:ქართული
+https://streaming-hls1.televizia.org/hls/postv.m3u8
