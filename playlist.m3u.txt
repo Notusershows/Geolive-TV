@@ -5,9 +5,4 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:0,1TV Georgia HD
 #EXTGRP:ქართული
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:0,Maestro TV HD
-#EXTGRP:ქართული
-https://tv.cdn.xsg.ge/maestro/index.m3u8
-#EXTINF:0,GDS TV HD
-#EXTGRP:ქართული
-https://tv.cdn.xsg.ge/gds/index.m3u8
+
