@@ -1,16 +1,3 @@
-# --- უფასო ქართული არხები ---
-#EXTINF:0,1TV GE HD
-#EXTGRP:ქართული
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:0,1TV Ganatleba GE
-#EXTGRP:ქართული
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:0,Imedi HD GE
+#EXTINF:0,Imedi TV HD
 #EXTGRP:ქართული
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:0,Formula HD GE
-#EXTGRP:ქართული
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:0,Euronews Georgia
-#EXTGRP:ქართული
-https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
