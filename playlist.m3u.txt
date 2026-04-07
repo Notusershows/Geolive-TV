@@ -5,4 +5,3 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:0,1TV Georgia HD
 #EXTGRP:ქართული
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-
