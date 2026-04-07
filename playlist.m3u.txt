@@ -80,3 +80,116 @@ http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2199/index.m3u8
 #EXTINF:0 tvg-rec="3",ATV AZ
 #EXTGRP:აზერბაიჯანი
 http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2200/index.m3u8
+# --- ყაზახური არხები ---
+#EXTINF:0 tvg-rec="3",Qazaqstan TV KZ
+#EXTGRP:ყაზახეთი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2153/index.m3u8
+#EXTINF:0 tvg-rec="3",Jibek Joly TV KZ
+#EXTGRP:ყაზახეთი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",KTK HD KZ
+#EXTGRP:ყაზახეთი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2156/index.m3u8
+#EXTINF:0 tvg-rec="3",Sedmoi Kanal KZ
+#EXTGRP:ყაზახეთი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2158/index.m3u8
+#EXTINF:0 tvg-rec="3",Astana TV KZ
+#EXTGRP:ყაზახეთი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2159/index.m3u8
+#EXTINF:0 tvg-rec="3",31 Kanal KZ
+#EXTGRP:ყაზახეთი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2160/index.m3u8
+#EXTINF:0 tvg-rec="3",24 KZ
+#EXTGRP:ყაზახეთი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2161/index.m3u8
+# --- ბელარუსული არხები ---
+#EXTINF:0 tvg-rec="3",Belarus 24
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2213/index.m3u8
+#EXTINF:0 tvg-rec="3",Belarus 1
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2214/index.m3u8
+#EXTINF:0 tvg-rec="3",Belarus 2
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2215/index.m3u8
+#EXTINF:0 tvg-rec="3",Belarus 3
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2216/index.m3u8
+#EXTINF:0 tvg-rec="3",Belarus 1 HD
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2217/index.m3u8
+#EXTINF:0 tvg-rec="3",Belarus 2 HD
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2218/index.m3u8
+#EXTINF:0 tvg-rec="3",Belarus 3 HD
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2219/index.m3u8
+#EXTINF:0 tvg-rec="3",Belarus 5 HD BY
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2220/index.m3u8
+#EXTINF:0 tvg-rec="3",8 Kanal HD BY
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2221/index.m3u8
+#EXTINF:0 tvg-rec="3",ONT BY
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2222/index.m3u8
+#EXTINF:0 tvg-rec="3",BelRos BY
+#EXTGRP:ბელარუსი
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2224/index.m3u8
+# --- საბავშვო არხები ---
+#EXTINF:0 tvg-rec="3",Cartoon Classics
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/54/index.m3u8
+#EXTINF:0 tvg-rec="3",TIJI TV
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/56/index.m3u8
+#EXTINF:0 tvg-rec="3",NICK Toons SE
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/59/index.m3u8
+#EXTINF:0 tvg-rec="3",GULLI GIRL
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/62/index.m3u8
+#EXTINF:0 tvg-rec="3",NICK JR.
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/65/index.m3u8
+#EXTINF:0 tvg-rec="3",NICKELODEON
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/66/index.m3u8
+#EXTINF:0 tvg-rec="3",DETSKII MIR
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/69/index.m3u8
+#EXTINF:0 tvg-rec="3",JIMJAM
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/70/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network HD
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/814/index.m3u8
+#EXTINF:0 tvg-rec="3",KARUSELI
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/818/index.m3u8
+#EXTINF:0 tvg-rec="3",Ani
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/1217/index.m3u8
+#EXTINF:0 tvg-rec="3",Multi
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/1218/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoonito
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/1219/index.m3u8
+#EXTINF:0 tvg-rec="3",O!
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/1220/index.m3u8
+#EXTINF:0 tvg-rec="3",V GOSTIAX U SKAZKI
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/1222/index.m3u8
+#EXTINF:0 tvg-rec="3",KARUSELI +3
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/1344/index.m3u8
+#EXTINF:0 tvg-rec="3",Multi HD
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/3091/index.m3u8
+#EXTINF:0 tvg-rec="3",DUCK TV HD
+#EXTGRP:საბავშვო
+http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/3092/index.m3u8
+#EXTINF:0 tvg-rec="3",MALISH
+#EXTGRP:საბავშვო
