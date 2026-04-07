@@ -13,4 +13,4 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 #EXTINF:-1,Akebstar (YouTube Live)
 #EXTGRP:გეიმინგი
-https://f92e2197.yt-hls-72k.pages.dev/channel/UCvI2uNbeV-U2K7k_1S_UvKw.m3u8
+https://youtube-to-m3u8.onrender.com/live/UCvI2uNbeV-U2K7k_1S_UvKw.m3u8
