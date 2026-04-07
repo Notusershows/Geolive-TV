@@ -1,15 +1,16 @@
-#EXTINF:0 tvg-rec="3",1TV GE
+# --- უფასო ქართული არხები ---
+#EXTINF:0,1TV GE HD
 #EXTGRP:ქართული
-http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2216/index.m3u8
-#EXTINF:0 tvg-rec="3",1TV Ganatleba GE
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:0,1TV Ganatleba GE
 #EXTGRP:ქართული
-http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2217/index.m3u8
-#EXTINF:0 tvg-rec="3",Imedi GE
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:0,Imedi HD GE
 #EXTGRP:ქართული
-http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2218/index.m3u8
-#EXTINF:0 tvg-rec="3",Formula GE
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:0,Formula HD GE
 #EXTGRP:ქართული
-http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2219/index.m3u8
-#EXTINF:0 tvg-rec="3",Euronews Georgia GE
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:0,Euronews Georgia
 #EXTGRP:ქართული
-http://c8atofjz.socminlt.org/iptv/YHK23A33G2T9P7GPUBXMW5G7/2220/index.m3u8
+https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
